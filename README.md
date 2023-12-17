@@ -30,9 +30,9 @@ pnpm --version  # check if success
 ### 3. Install gradio
 
 ```
-git clone 
+git clone https://github.com/LiWentomng/gradio-osprey-demo.git
 
-cd gradio-demo
+cd gradio-osprey-demo
 
 bash scripts/build_frontend.sh
 
