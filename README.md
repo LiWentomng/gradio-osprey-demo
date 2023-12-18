@@ -1,6 +1,6 @@
 # Gradio-Osprey-Demo
 
-This is the gradio used in demo of our [Osprey](https://github.com/CircleRadon/Osprey), [Pixel Understanding with Visual Instruction Tuning](). It is an extension to official [gradio-3.36.1](https://github.com/gradio-app/gradio), which supports drawing boxes on top of an image. 
+This is the gradio used in demo of our [Osprey](https://github.com/CircleRadon/Osprey), [Pixel Understanding with Visual Instruction Tuning](https://arxiv.org/abs/2312.10032). It is an extension to official [gradio-3.36.1](https://github.com/gradio-app/gradio), which supports drawing boxes on top of an image. 
 
 ## Install
 
