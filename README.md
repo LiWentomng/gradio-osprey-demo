@@ -40,4 +40,4 @@ pip install -e .
 ```
 ## Acknowledgement
 
-The implementation is inspired by [gradio-box](https://github.com/ShoufaChen/gradio-box) and [gradio-app/gradio#3220](https://github.com/gradio-app/gradio/pull/3220), with several modifications to `gradio-3.36.1`. Thank you for their open-source contributions!
+The implementation is inspired by [gradio-box](https://github.com/ShoufaChen/gradio-box) and [gradio-app/gradio#3220](https://github.com/gradio-app/gradio/pull/3220), with several modifications to `gradio-3.36.1`. Thanks for their open-source contributions!
